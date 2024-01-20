@@ -10,7 +10,7 @@ Con una sólida experiencia en el área administrativa, lideré equipos de más 
 
 ### Tecnología para todas las personas
 
-[Oracle ONE](https://www.oracle.com/mx/corporate/citizenship/oracle-one/) es un programa de educación y empleabilidad con un enfoque social, dedicado a capacitar a individuos en tecnología y facilitar su conexión con el mercado laboral.
+[Oracle ONE](https://www.oracle.com/mx/education/oracle-next-education/) es un programa de educación y empleabilidad con un enfoque social, dedicado a capacitar a individuos en tecnología y facilitar su conexión con el mercado laboral.
 
 
 ### Beneficios de Oracle ONE
